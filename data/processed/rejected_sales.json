@@ -1,0 +1,42 @@
+[
+  {
+    "registro": 16,
+    "dados": {
+      "data": "2026-10-18",
+      "produto": "Mouse",
+      "quantidade": "-2",
+      "preco_unitario": "59.90",
+      "valor_total": "-119.80"
+    },
+    "motivo": [
+      "Quantidade deve ser positiva.",
+      "Valor total inválido."
+    ]
+  },
+  {
+    "registro": 17,
+    "dados": {
+      "data": "2026-10-19",
+      "produto": "",
+      "quantidade": "2",
+      "preco_unitario": "120.00",
+      "valor_total": "240.00"
+    },
+    "motivo": [
+      "Produto não informado."
+    ]
+  },
+  {
+    "registro": 18,
+    "dados": {
+      "data": "2026-10-20",
+      "produto": "Webcam",
+      "quantidade": "abc",
+      "preco_unitario": "149.90",
+      "valor_total": "299.80"
+    },
+    "motivo": [
+      "Quantidade não numérica."
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Banco de dados SQLite
+database/*.db
+database/*.db-journal
+
+# Logs
+logs/*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Configurações locais
+.env
+.vscode/
+.idea/

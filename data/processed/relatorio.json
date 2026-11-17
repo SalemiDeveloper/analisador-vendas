@@ -1,0 +1,13 @@
+{
+  "faturamento_total": 7283.1,
+  "quantidade_vendas": 15,
+  "unidades_vendidas": 39,
+  "ticket_medio": 485.54,
+  "produto_mais_vendido": "Mouse",
+  "quantidade_produto_mais_vendido": 18,
+  "faturamento_mensal": {
+    "2026-09": 4885.3,
+    "2026-10": 2397.8
+  },
+  "variacao_fat_mensal_percentual": -50.92
+}

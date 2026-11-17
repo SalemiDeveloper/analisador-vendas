@@ -1,0 +1,94 @@
+{
+    "indicadores_gerai": {
+        "quantidade_vendas": 15,
+        "produtos_cadastrados": 5,
+        "unidades_vendidas": 39,
+        "faturamento_total": 7283.1,
+        "ticket_medio": 485.54
+    },
+    "faturamento_por_produto": [
+        {
+            "produto": "Monitor",
+            "faturamento": 3596.0
+        },
+        {
+            "produto": "Headset",
+            "faturamento": 1139.4
+        },
+        {
+            "produto": "Mouse",
+            "faturamento": 1078.2
+        },
+        {
+            "produto": "Webcam",
+            "faturamento": 749.5
+        },
+        {
+            "produto": "Teclado",
+            "faturamento": 720.0
+        }
+    ],
+    "unidades_por_produto": [
+        {
+            "produto": "Mouse",
+            "unidades_vendidas": 18
+        },
+        {
+            "produto": "Headset",
+            "unidades_vendidas": 6
+        },
+        {
+            "produto": "Teclado",
+            "unidades_vendidas": 6
+        },
+        {
+            "produto": "Webcam",
+            "unidades_vendidas": 5
+        },
+        {
+            "produto": "Monitor",
+            "unidades_vendidas": 4
+        }
+    ],
+    "faturamento_mensal": [
+        {
+            "mes": "2026-09",
+            "faturamento": 4885.3
+        },
+        {
+            "mes": "2026-10",
+            "faturamento": 2397.8
+        }
+    ],
+    "produto_maior_faturamento": {
+        "produto": "Monitor",
+        "faturamento": 3596.0
+    },
+    "participacao_por_produto": [
+        {
+            "produto": "Monitor",
+            "faturamento": 3596.0,
+            "participacao_percentual": 49.37
+        },
+        {
+            "produto": "Headset",
+            "faturamento": 1139.4,
+            "participacao_percentual": 15.64
+        },
+        {
+            "produto": "Mouse",
+            "faturamento": 1078.2,
+            "participacao_percentual": 14.8
+        },
+        {
+            "produto": "Webcam",
+            "faturamento": 749.5,
+            "participacao_percentual": 10.29
+        },
+        {
+            "produto": "Teclado",
+            "faturamento": 720.0,
+            "participacao_percentual": 9.89
+        }
+    ]
+}
